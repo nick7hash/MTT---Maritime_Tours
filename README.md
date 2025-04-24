@@ -9,7 +9,7 @@ Objectives:
 
 Tools Used:
 
-* Data Sources: Google Ads, GTM, GA4
+* Data Sources: Google Ads, GTM, GA4, Google Search Console
 * Transformation: Dataform (SQLX, YAML)
 * Visualization: Looker Studio
 
